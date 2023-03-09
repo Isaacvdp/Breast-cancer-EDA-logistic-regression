@@ -8,4 +8,4 @@ Dataset contains entries of tumors' dimensions, measures and whether the diagnos
 Simple EDA and basic machine learning with the use of logistic regression in order to predict tumor diagnosis.
 
 
-Model resulted in an accuracy f <b>98.24%</b>
+Model resulted in an accuracy of <b>98.24%</b>
